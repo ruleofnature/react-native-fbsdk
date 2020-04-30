@@ -1,6 +1,6 @@
 {
   "_from": "react-native-fbsdk@^1.1.1",
-  "_id": "react-native-fbsdk@1.1.2",
+  "_id": "react-native-fbsdk@1.1.1",
   "_inBundle": false,
   "_integrity": "sha512-Sp+oja868QVsB5vpEFbwZkEcCJOSBuZgh7UGJzUhaoTCs/zwSUHA6b4QichM7GiTxtQyKfT/F31DtvLj2N/qAQ==",
   "_location": "/react-native-fbsdk",
@@ -111,5 +111,5 @@
     "prettier": "prettier \"./**/*.js\" --write",
     "start": "react-native start"
   },
-  "version": "1.1.2"
+  "version": "1.1.1"
 }
